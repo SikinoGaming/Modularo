@@ -1,2 +1,2 @@
 # Modularo
-The open source modular keyboard from 60%-80% to 110% with media controls, trackpad, LEDs and more.
+The fully modular open source keyboard from 60%-80% to 110% with multimedia controls, trackpad, LEDs and more.
